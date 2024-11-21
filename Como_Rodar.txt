@@ -1,0 +1,5 @@
+Entre na sua conta no Telegran procure pelo @BOTFATHER original, cuidado pois a 
+bastante bots falsos, digite o comando /newbot e siga as instruções para criar o seu bot, 
+depois o seu bot vai lhe informar um token, pegue esse token e substitua no codigo no local indicado 
+como YOUR TOKEN, instale as bibliotecas necessarias e execute o arquivo ChatBot.py, feito isso basta ir 
+ate o seu bot e digitar /help para obter mais informações ou /start para começar

@@ -1,6 +1,6 @@
 import telebot
 
-BOT_TOKEN = "7598660228:AAEMlMdlxR17-hs-ytumfw2KAXWstCd-ta0"
+BOT_TOKEN = "YOUR TOKEN"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 user_stories = {
